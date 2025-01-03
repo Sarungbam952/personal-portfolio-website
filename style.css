@@ -1,0 +1,96 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(28, 33, 57);
+}
+
+.poppins-thin {
+  font-family: "Poppins", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.head{
+  color: white;
+  display: flex;
+  height: 65px;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.head ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+
+}
+
+.head ul li{
+  margin: 0 20px;
+}
+
+.intro{
+  color: white;
+  margin: 120px; 
+  font-size: 2rem;
+  
+}
+.darker-text{
+  color: rgb(172, 172, 255);
+}
+.darker-text p{
+  font-size: 0.7em;
+  margin-bottom: 250px;
+  
+}
+
+.about-me{
+  color: white;
+  margin: 120px;
+  font-size: 1.2em;
+  margin-bottom: 250px;
+}
+
+.projects{
+  color: white;
+  margin: 120px;
+  margin-bottom: 250px;
+}
+
+
+.contact{
+  color: white;
+  margin: 120px;
+  font-size: 1.2em;
+  text-align: center
+}
